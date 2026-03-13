@@ -151,6 +151,6 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
- I'm **Talla Saicharan** , I’m a computer science student and passionate to the field i am in and to share knowledge and make working with insights of data !!
+ I'm **Talla Saicharan**, a computer science student and passionate to the field i am in and to share knowledge and make working with insights of data !!
 
 
